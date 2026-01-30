@@ -24,3 +24,6 @@ Overall, this page helped me better understand how software engineering blends t
 
 Article checked for typos
 
+### Comment:
+
+I really like how you highlighted that software engineering is not just about programming. A lot of people forget about the design and maintenance phases, which are arguably just as important as the coding itself. It’s interesting to see how the field has broadened to touch almost every other industry, making the career path very diverse
